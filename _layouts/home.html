@@ -7,3 +7,12 @@ layout: defualt
  {{ content }}
  
  
+
+
+{%- for post in site.posts -%}
+
+{{ post.title }}
+
+{{ post.content }}
+
+{%- endfor -%}
