@@ -1,5 +1,5 @@
 ---
-title: {{ site.title }}
+title: williamwolf.design
 timezone: UTC
 collections:
   posts:
